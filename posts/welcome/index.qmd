@@ -1,12 +1,12 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2023-10-15"
+author: "Larken Root"
+date: "2023-10-18"
 categories: [news]
 ---
 
 This is the first post in a Quarto blog. Welcome!
 
-![](thumbnail.jpg)
+![](mussels-marine-gastropods-water-snail-molluscs-preview.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+This notebook is a continuation of my previous notebook found [here](https://larkenr.github.io/).

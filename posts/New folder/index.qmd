@@ -1,0 +1,14 @@
+---
+title: "October activities"
+author: "Larken Root"
+date: "2023-10-18"
+categories: [news]
+---
+
+In October I will be working on
+
+-   Finishing image analysis of manila clam larvae with QC and statistics
+
+-   Starting lipidomics analysis
+
+-   update written methods for manuscript
