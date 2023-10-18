@@ -1,6 +1,6 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Example Post With Code"
+author: "Larken Root"
 date: "2023-10-18"
 categories: [news, code, analysis]
 image: "image.jpg"
